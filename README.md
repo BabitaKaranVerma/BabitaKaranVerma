@@ -1,4 +1,4 @@
-👋 Hi, I’m Ashima Verma
+👋 Hi, I’m Babita Verma
 
 I’m an MIS & Data Analysis professional and freelancer with 8+ years of experience in building automated reports, dashboards, and data workflows for business teams. I work mainly with Excel, Google Sheets, VBA, and Google Apps Script to turn raw data into clear, actionable insights.
 
